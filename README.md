@@ -40,7 +40,7 @@ Images are labeled and divided into four categories:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/brain-tumor-detector.git
+git clone https://github.com/j0x49/Brain-Tumor-Detector.git
 cd brain-tumor-detector
 
 # Install required packages
