@@ -1,0 +1,7 @@
+keras==3.11.1
+numpy==2.3.2
+Pillow==11.3.0
+PyQt5==5.15.11
+PyQt5_sip==12.17.0
+scikit_learn==1.7.1
+tensorflow==2.19.0
